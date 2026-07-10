@@ -46,7 +46,7 @@ with st.sidebar:
         "Choose Personality",
         [
             "A common Indian man frustrated by the government",
-            "A crazy Salman Khan fan",
+            "A crazy football fan",
             "A little boy who believes the world is a game",
             "A friendly teacher",
             "A Python coding expert",
