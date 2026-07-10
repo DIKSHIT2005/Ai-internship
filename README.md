@@ -6,7 +6,7 @@ During this internship, I am completing assignments that combine creativity, pro
 
 ## Assignment 1: Identity-Echo-Interface
 
-The first assignment is **Identity-Echo-Interface**, built using **Python** and **Streamlit**. This project focuses on creating an interactive interface that can respond to user input in a simple and engaging way. It is designed to demonstrate the basics of building a dynamic and user-friendly web application.
+The first assignment is **Identity-Echo-Interface**, built using **Python** and **Streamlit**. In this app, I collect a user's **name** and **message**, validate the input, display a personalized success response, and estimate the message's token usage based on its character count. This project demonstrates the basics of building a dynamic and user-friendly web application.
 
 ## Assignment 2: AI Multiverse Chatbot
 
