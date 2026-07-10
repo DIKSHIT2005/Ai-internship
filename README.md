@@ -10,7 +10,7 @@ The first assignment is **Identity-Echo-Interface**, built using **Python** and 
 
 ## Assignment 2: AI Multiverse Chatbot
 
-The second assignment is **AI Multiverse Chatbot**, where users can chat with multiple personalities using **Streamlit** and the **Gemini API**. This project allows different conversational styles or personalities to be explored within a single chatbot experience, making it more interactive and interesting.
+The second assignment is **AI Multiverse Chatbot**. It is a chatbot built with **Streamlit** and the **Gemini API** that lets users interact with multiple AI personalities in a single application. It features a cleaner user interface, sidebar-based personality selection, chat history, clear chat option, chat download, conversation statistics, loading animation, improved Gemini integration, and a responsive layout, making the chatbot more interactive, user-friendly, and engaging.
 
 ## Internship Learning Outcomes
 
