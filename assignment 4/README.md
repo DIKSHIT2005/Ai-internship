@@ -1,39 +1,115 @@
-# 🎨 AI Image Studio
+# 🎨 AI Image Studio (Assignment 4)
 
-A simple AI-powered image generation web application built with **Streamlit** and the **Pollinations AI API**. Users can describe an image, customize the art style and dimensions, and generate AI-created images.
+An AI-powered image generation web app built with **Streamlit** and the **Pollinations AI API**.  
+This project allows users to describe an image in natural language, customize style and resolution, and instantly generate downloadable artwork.
 
-## Features
+---
 
-- 🎨 Generate AI images from text prompts
-- 🖌️ Choose from multiple art styles
-- 📐 Customize image width and height
-- ✨ Magic Enhance mode for richer prompts
-- 🎲 Surprise Me feature with random creative prompts
-- 📥 Download generated images as PNG files
+## 🚀 Project Overview
 
-## Tech Stack
+This assignment demonstrates how to build an interactive AI application using Python and REST APIs.  
+Users can enter creative prompts, apply visual styles, enable prompt enhancement, and generate high-quality images from a simple web interface.
 
-- Python
-- Streamlit
-- Requests
-- Pollinations AI API
+---
 
-## Project Structure
+## ✨ Features
+
+- 🧠 **Text-to-Image Generation** using Pollinations API
+- 🖌️ **Multiple Art Styles** (Photorealistic, Anime, Vintage Victorian, Sketch)
+- 📐 **Custom Image Dimensions** (width/height sliders)
+- ✨ **Magic Enhance Mode** for richer, more descriptive prompts
+- 🎲 **Surprise Me** random prompt generator
+- 📥 **One-click PNG Download** of generated output
+- 💻 **Interactive UI** built with Streamlit
+
+---
+
+## 🧰 Tech Stack
+
+- **Python**
+- **Streamlit**
+- **Requests**
+- **Pollinations AI API**
+
+---
+
+## 📂 Project Structure
 
 ```text
-.
-├── app.py
+assignment 4/
+├── assignment4.py
 └── README.md
 ```
 
-## Demo
+---
 
-*A short demonstration video of the application is included with the assignment submission.*
+## ⚙️ Installation & Setup
 
-## What I Learned
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/DIKSHIT2005/Ai-internship.git
+   cd Ai-internship/assignment\ 4
+   ```
 
-- Working with REST APIs using Python
-- Passing URL query parameters
-- Prompt engineering for AI image generation
-- Using Python's `random` module to build interactive features
-- Developing user-friendly web applications with Streamlit
+2. **Install dependencies**
+   ```bash
+   pip install streamlit requests
+   ```
+
+3. **Run the app**
+   ```bash
+   streamlit run assignment4.py
+   ```
+
+4. Open the local Streamlit URL (usually `http://localhost:8501`) in your browser.
+
+---
+
+## ▶️ How to Use
+
+1. Select an **art style** from the sidebar.
+2. Set image **width** and **height**.
+3. Optionally enable **Magic Enhance**.
+4. Enter an image prompt in the text box.
+5. Click **Generate Image**.
+6. View and **download** the generated image.
+7. Or click **🎲 Surprise Me!** to auto-generate from a random prompt.
+
+---
+
+## 🧪 Example Prompts
+
+Try these sample ideas:
+
+- `A futuristic samurai standing in neon rain at night`
+- `A floating island with waterfalls above the clouds`
+- `A tiny dragon sleeping inside a teacup`
+- `A cozy cyberpunk café in Tokyo at sunset`
+
+---
+
+## 🎓 Learning Outcomes
+
+Through this assignment, I practiced:
+
+- Integrating external AI services via REST APIs
+- Constructing prompts for image generation
+- Designing interactive front-end controls with Streamlit
+- Handling API responses and binary image display
+- Creating downloadable artifacts from generated content
+
+---
+
+## 🔮 Future Improvements
+
+- Add URL encoding for safer prompt handling
+- Improve error messages with API response details
+- Add prompt history and saved generations
+- Allow more styles and presets
+- Add loading metrics (generation time, retries)
+
+---
+
+## ✅ Assignment Status
+
+**Completed** – Functional AI image generation app with customization, randomization, and download support.
