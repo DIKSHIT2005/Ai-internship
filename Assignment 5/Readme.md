@@ -4,7 +4,7 @@
 
 StoryVerse is an AI-powered interactive visual novel built with **Streamlit**, **Google Gemini**, **Pollinations AI**, and **Microsoft Edge TTS**.
 
-Choose a story genre and art style, then experience a unique adventure with AI-generated narration, illustrations, and branching choices that shape the story as you play.
+It lets you choose a story genre and art style, then generates an engaging adventure with AI narration, illustrations, and branching choices that shape the story as you play.
 
 ---
 
@@ -109,9 +109,3 @@ The project showcases:
 - Session-based conversation management
 - Dynamic UI generation
 - Robust exception handling
-
----
-
-## 📄 License
-
-This project was created for educational purposes as part of the **MirAI School of Technology Virtual Summer Internship 2026**.
