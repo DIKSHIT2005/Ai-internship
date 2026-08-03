@@ -1,7 +1,7 @@
 # ScreenWise: AI Wellbeing Dashboard 🧠
 
 ```
-$ whoami
+$ who am i
 > a developer tired of doomscrolling
 
 $ screenwise --status
@@ -19,7 +19,7 @@ usage, visualizes the trends, and hands a clean summary to Gemini, which
 plays the role of a brutal-but-fair life coach — one that gives you real,
 physical-world replacements instead of empty "touch grass" platitudes.
 
-## > stack
+## Stack
 
 ```
 $ cat stack.txt
@@ -29,7 +29,7 @@ google-genai   → Gemini API client
 python-dotenv  → local secret management
 ```
 
-## > run it locally
+##  Run it locally
 
 ```bash
 $ git clone <your-repo-url>
@@ -43,7 +43,7 @@ $ vim .env   # paste in your GEMINI_API_KEY
 $ streamlit run app.py
 ```
 
-## > features
+##  Features
 
 ```
 [x] 14-day synthetic screen time dataset (screentime.csv)
@@ -54,7 +54,7 @@ $ streamlit run app.py
 [x] shareable accountability link via st.query_params
 ```
 
-## > deployment
+##  Deployment
 
 ```
 $ streamlit deploy app.py
@@ -64,7 +64,7 @@ $ streamlit deploy app.py
 Set `GEMINI_API_KEY` as a secret in Streamlit Community Cloud's
 **Settings → Secrets** panel (do not commit `.env`).
 
-## > file map
+## File map
 
 ```
 screenwise/
@@ -76,9 +76,9 @@ screenwise/
 └── README.md
 ```
 
-## > license
+## License
 
 ```
-$ cat LICENSE
-do whatever you want, just go outside sometimes
+LICENSE
+Screenwise Ai Built under MIRAI Internship 
 ```
