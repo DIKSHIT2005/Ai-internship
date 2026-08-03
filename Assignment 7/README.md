@@ -11,7 +11,7 @@ $ screenwise --status
 > [COACH]     "put the phone down. go touch grass. then come back and ship."
 ```
 
-## > what is this
+## What is this
 
 **ScreenWise** is a Streamlit wellbeing dashboard that turns raw screen-time
 data into an actual coaching conversation. It ingests a CSV of daily app
