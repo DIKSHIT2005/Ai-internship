@@ -12,6 +12,10 @@ The first assignment is **Identity-Echo-Interface**, built using **Python** and 
 
 The second assignment is **AI Multiverse Chatbot**. It is a chatbot built with **Streamlit** and the **Gemini API** that lets users interact with multiple AI personalities in a single application. It features a cleaner user interface, sidebar-based personality selection, chat history, clear chat option, chat download, conversation statistics, loading animation, improved Gemini integration, and a responsive layout, making the chatbot more interactive, user-friendly, and engaging.
 
+## Assignment 8: Email Spam Detection
+
+The eighth assignment is an **Email Spam Detection** project built with **Python** and **scikit-learn**. It trains a machine learning model using **TF-IDF** text features and a **Multinomial Naive Bayes** classifier to predict whether an email is spam or ham. The project includes a sample dataset, model training script, evaluation output, and CLI prediction support for new email text.
+
 ## Internship Learning Outcomes
 
 - Improved my understanding of **Python programming**
